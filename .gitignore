@@ -1,0 +1,5 @@
+*.pem
+.env
+config.yml
+__pycache__/
+*.log
